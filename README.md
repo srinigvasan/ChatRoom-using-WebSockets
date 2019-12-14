@@ -22,7 +22,7 @@ WebSocketChatServer covers the below scenarios for now
 
 
 ### Run the application with command
-mvn build;
+mvn clean install
 mvn spring-boot:run
 
 ### Access the chat window
